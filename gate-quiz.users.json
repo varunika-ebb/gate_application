@@ -1,0 +1,391 @@
+[{
+  "_id": {
+    "$oid": "68c578052cc6afb08bb4a81a"
+  },
+  "name": "Varunika",
+  "email": "varunikaebb.23aid@kongu.edu",
+  "password": "$2a$12$00Q.O85yj0uH3oj0H.qr0uu/wPFZ2qHBUvMQh.lPXKR8CNtO0LLpq",
+  "role": "student",
+  "profile": {
+    "phone": "",
+    "college": "KEC",
+    "branch": "",
+    "graduationYear": 2027,
+    "targetExam": "GATE-2026",
+    "avatar": ""
+  },
+  "preferences": {
+    "notifications": {
+      "email": true,
+      "browser": true
+    },
+    "subjects": [],
+    "difficulty": "mixed"
+  },
+  "stats": {
+    "practiceStats": {
+      "cs": {
+        "questionsCompleted": 0,
+        "correctAnswers": 0,
+        "sectionsCompleted": 0,
+        "lastPracticed": {
+          "$date": "2025-09-13T13:56:21.750Z"
+        }
+      },
+      "da": {
+        "questionsCompleted": 0,
+        "correctAnswers": 0,
+        "sectionsCompleted": 0,
+        "lastPracticed": {
+          "$date": "2025-09-13T13:56:21.750Z"
+        }
+      },
+      "ga": {
+        "questionsCompleted": 0,
+        "correctAnswers": 0,
+        "sectionsCompleted": 0,
+        "lastPracticed": {
+          "$date": "2025-09-13T13:56:21.750Z"
+        }
+      }
+    },
+    "totalQuizzes": 5,
+    "totalQuestions": 55,
+    "correctAnswers": 38,
+    "totalTimeSpent": 559,
+    "averageScore": 56,
+    "totalScore": 270,
+    "quizzesCompleted": 4,
+    "currentStreak": 0,
+    "longestStreak": 0,
+    "lastActive": {
+      "$date": "2025-12-27T05:06:09.490Z"
+    },
+    "achievements": [],
+    "lastPracticeDate": {
+      "$date": "2025-09-13T13:56:21.752Z"
+    }
+  },
+  "isEmailVerified": false,
+  "loginAttempts": 0,
+  "createdAt": {
+    "$date": "2025-09-13T13:56:21.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-27T05:06:09.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c5a41c103eedf286781bdd"
+  },
+  "name": "Siva Dharshana",
+  "email": "sivadharshanag.23aid@kongu.edu",
+  "password": "$2a$12$EPk16qfS2Sp/QMfo55WHMewl.lHPn8DmXprgGO.A6sV.O6MWe2sPG",
+  "role": "student",
+  "profile": {
+    "avatar": "",
+    "phone": "",
+    "college": "",
+    "branch": "",
+    "targetExam": "GATE-2026"
+  },
+  "preferences": {
+    "notifications": {
+      "email": true,
+      "browser": true
+    },
+    "subjects": [],
+    "difficulty": "mixed"
+  },
+  "stats": {
+    "practiceStats": {
+      "cs": {
+        "questionsCompleted": 0,
+        "correctAnswers": 0,
+        "sectionsCompleted": 0,
+        "lastPracticed": {
+          "$date": "2025-09-13T17:04:28.162Z"
+        }
+      },
+      "da": {
+        "questionsCompleted": 0,
+        "correctAnswers": 0,
+        "sectionsCompleted": 0,
+        "lastPracticed": {
+          "$date": "2025-09-13T17:04:28.162Z"
+        }
+      },
+      "ga": {
+        "questionsCompleted": 0,
+        "correctAnswers": 0,
+        "sectionsCompleted": 0,
+        "lastPracticed": {
+          "$date": "2025-09-13T17:04:28.162Z"
+        }
+      }
+    },
+    "totalQuizzes": 2,
+    "totalQuestions": 20,
+    "correctAnswers": 17,
+    "totalTimeSpent": 115,
+    "averageScore": 46,
+    "totalScore": 91.33,
+    "quizzesCompleted": 2,
+    "currentStreak": 0,
+    "longestStreak": 0,
+    "lastActive": {
+      "$date": "2025-09-16T16:45:00.432Z"
+    },
+    "achievements": [],
+    "lastPracticeDate": {
+      "$date": "2025-09-13T17:04:28.162Z"
+    }
+  },
+  "isEmailVerified": false,
+  "loginAttempts": 0,
+  "createdAt": {
+    "$date": "2025-09-13T17:04:28.164Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T16:45:00.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c65608daa190852905c558"
+  },
+  "name": "Pritika",
+  "email": "pritikasa.23aid@kongu.edu",
+  "password": "$2a$12$1/TcZ36z70Oud9wa2uH1ROhfaZRZAKeih7OUaAwMSCy8LdAMm/Oi2",
+  "role": "student",
+  "profile": {
+    "avatar": "",
+    "phone": "",
+    "college": "",
+    "branch": "",
+    "targetExam": "GATE-2026"
+  },
+  "preferences": {
+    "notifications": {
+      "email": true,
+      "browser": true
+    },
+    "subjects": [],
+    "difficulty": "mixed"
+  },
+  "stats": {
+    "practiceStats": {
+      "cs": {
+        "questionsCompleted": 0,
+        "correctAnswers": 0,
+        "sectionsCompleted": 0,
+        "lastPracticed": {
+          "$date": "2025-09-14T05:43:36.065Z"
+        }
+      },
+      "da": {
+        "questionsCompleted": 0,
+        "correctAnswers": 0,
+        "sectionsCompleted": 0,
+        "lastPracticed": {
+          "$date": "2025-09-14T05:43:36.065Z"
+        }
+      },
+      "ga": {
+        "questionsCompleted": 0,
+        "correctAnswers": 0,
+        "sectionsCompleted": 0,
+        "lastPracticed": {
+          "$date": "2025-09-14T05:43:36.065Z"
+        }
+      }
+    },
+    "totalQuizzes": 1,
+    "totalQuestions": 10,
+    "correctAnswers": 7,
+    "totalTimeSpent": 94,
+    "averageScore": 70,
+    "totalScore": 70,
+    "quizzesCompleted": 1,
+    "currentStreak": 0,
+    "longestStreak": 0,
+    "lastActive": {
+      "$date": "2025-09-17T05:39:45.977Z"
+    },
+    "achievements": [],
+    "lastPracticeDate": {
+      "$date": "2025-09-14T05:43:36.065Z"
+    }
+  },
+  "isEmailVerified": false,
+  "loginAttempts": 0,
+  "createdAt": {
+    "$date": "2025-09-14T05:43:36.067Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T05:39:45.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c65635daa190852905c566"
+  },
+  "name": "Sindhuja",
+  "email": "sindhujar.23aid@kongu.edu",
+  "password": "$2a$12$kIpo.4/Tpen9KHBseKgKxOPwaUedPaw4SumNSjiujQtPMu3XV6aay",
+  "role": "student",
+  "profile": {
+    "avatar": "",
+    "phone": "",
+    "college": "",
+    "branch": "",
+    "targetExam": "GATE-2026"
+  },
+  "preferences": {
+    "notifications": {
+      "email": true,
+      "browser": true
+    },
+    "subjects": [],
+    "difficulty": "mixed"
+  },
+  "stats": {
+    "practiceStats": {
+      "cs": {
+        "questionsCompleted": 0,
+        "correctAnswers": 0,
+        "sectionsCompleted": 0,
+        "lastPracticed": {
+          "$date": "2025-09-14T05:44:21.559Z"
+        }
+      },
+      "da": {
+        "questionsCompleted": 0,
+        "correctAnswers": 0,
+        "sectionsCompleted": 0,
+        "lastPracticed": {
+          "$date": "2025-09-14T05:44:21.559Z"
+        }
+      },
+      "ga": {
+        "questionsCompleted": 0,
+        "correctAnswers": 0,
+        "sectionsCompleted": 0,
+        "lastPracticed": {
+          "$date": "2025-09-14T05:44:21.559Z"
+        }
+      }
+    },
+    "totalQuizzes": 1,
+    "totalQuestions": 10,
+    "correctAnswers": 10,
+    "totalTimeSpent": 19,
+    "averageScore": 100,
+    "totalScore": 100,
+    "quizzesCompleted": 1,
+    "currentStreak": 0,
+    "longestStreak": 0,
+    "lastActive": {
+      "$date": "2025-09-16T16:40:22.646Z"
+    },
+    "achievements": [],
+    "lastPracticeDate": {
+      "$date": "2025-09-14T05:44:21.559Z"
+    }
+  },
+  "isEmailVerified": false,
+  "loginAttempts": 0,
+  "createdAt": {
+    "$date": "2025-09-14T05:44:21.560Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T16:40:22.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68fcd2059db51668434a25ad"
+  },
+  "name": "Admin User",
+  "email": "admin@gatequiz.com",
+  "password": "$2a$12$OcdWCH6nufLJvGlDnIT3de8FpBf2.Q0Ab.24llqsH3MZ1xih4BlUm",
+  "role": "admin",
+  "profile": {
+    "phone": "+1234567890",
+    "college": "Admin College",
+    "branch": "Administration",
+    "graduationYear": 2025,
+    "targetExam": "GATE-2026",
+    "avatar": ""
+  },
+  "preferences": {
+    "subjects": [
+      "CS",
+      "DA",
+      "GA"
+    ],
+    "difficulty": "mixed",
+    "notifications": {
+      "email": true,
+      "browser": true
+    }
+  },
+  "stats": {
+    "totalQuizzes": 0,
+    "totalQuestions": 0,
+    "correctAnswers": 0,
+    "totalTimeSpent": 0,
+    "averageScore": 0,
+    "lastActive": {
+      "$date": "2025-12-27T05:03:43.626Z"
+    },
+    "totalScore": 0,
+    "quizzesCompleted": 0,
+    "practiceStats": {
+      "cs": {
+        "questionsCompleted": 0,
+        "correctAnswers": 0,
+        "sectionsCompleted": 0,
+        "lastPracticed": {
+          "$date": "2025-10-25T13:35:01.650Z"
+        }
+      },
+      "da": {
+        "questionsCompleted": 0,
+        "correctAnswers": 0,
+        "sectionsCompleted": 0,
+        "lastPracticed": {
+          "$date": "2025-10-25T13:35:01.650Z"
+        }
+      },
+      "ga": {
+        "questionsCompleted": 0,
+        "correctAnswers": 0,
+        "sectionsCompleted": 0,
+        "lastPracticed": {
+          "$date": "2025-10-25T13:35:01.650Z"
+        }
+      }
+    },
+    "achievements": [],
+    "currentStreak": 0,
+    "longestStreak": 0,
+    "lastPracticeDate": {
+      "$date": "2025-10-25T13:35:01.650Z"
+    }
+  },
+  "isEmailVerified": true,
+  "loginAttempts": 0,
+  "createdAt": {
+    "$date": "2025-10-25T13:35:01.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-27T05:03:43.671Z"
+  },
+  "__v": 0
+}]

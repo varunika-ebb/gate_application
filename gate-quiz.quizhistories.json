@@ -1,0 +1,990 @@
+[{
+  "_id": {
+    "$oid": "68c4743d221d4567c79ea0ca"
+  },
+  "userId": {
+    "$oid": "68c4743b221d4567c79ea0c0"
+  },
+  "quizName": "CS Mock Test 1",
+  "subject": "CS",
+  "section": "Algorithms",
+  "quizType": "mock_test",
+  "score": 85,
+  "totalQuestions": 20,
+  "correctAnswers": 17,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 85,
+  "timeSpent": 1800,
+  "averageTimePerQuestion": 0,
+  "difficulty": "mixed",
+  "completedAt": {
+    "$date": "2025-08-15T21:49:44.243Z"
+  },
+  "sessionId": null,
+  "isCompleted": true,
+  "createdAt": {
+    "$date": "2025-09-12T19:27:57.230Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T19:27:57.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c4743d221d4567c79ea0cc"
+  },
+  "userId": {
+    "$oid": "68c4743b221d4567c79ea0c0"
+  },
+  "quizName": "DA Practice",
+  "subject": "DA",
+  "section": "Machine Learning",
+  "quizType": "practice",
+  "score": 78,
+  "totalQuestions": 15,
+  "correctAnswers": 12,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 80,
+  "timeSpent": 1200,
+  "averageTimePerQuestion": 0,
+  "difficulty": "mixed",
+  "completedAt": {
+    "$date": "2025-09-11T23:25:22.867Z"
+  },
+  "sessionId": null,
+  "isCompleted": true,
+  "createdAt": {
+    "$date": "2025-09-12T19:27:57.233Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T19:27:57.233Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c4743d221d4567c79ea0ce"
+  },
+  "userId": {
+    "$oid": "68c4743b221d4567c79ea0c0"
+  },
+  "quizName": "GA Mixed Practice",
+  "subject": "GA",
+  "section": null,
+  "quizType": "mixed_practice",
+  "score": 92,
+  "totalQuestions": 10,
+  "correctAnswers": 9,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 90,
+  "timeSpent": 600,
+  "averageTimePerQuestion": 0,
+  "difficulty": "mixed",
+  "completedAt": {
+    "$date": "2025-09-07T07:18:09.437Z"
+  },
+  "sessionId": null,
+  "isCompleted": true,
+  "createdAt": {
+    "$date": "2025-09-12T19:27:57.234Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T19:27:57.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c4743d221d4567c79ea0d0"
+  },
+  "userId": {
+    "$oid": "68c4743b221d4567c79ea0c2"
+  },
+  "quizName": "CS Practice",
+  "subject": "CS",
+  "section": "Data Structures",
+  "quizType": "practice",
+  "score": 88,
+  "totalQuestions": 20,
+  "correctAnswers": 18,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 90,
+  "timeSpent": 1500,
+  "averageTimePerQuestion": 0,
+  "difficulty": "mixed",
+  "completedAt": {
+    "$date": "2025-08-29T09:53:00.429Z"
+  },
+  "sessionId": null,
+  "isCompleted": true,
+  "createdAt": {
+    "$date": "2025-09-12T19:27:57.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T19:27:57.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c4743d221d4567c79ea0d2"
+  },
+  "userId": {
+    "$oid": "68c4743b221d4567c79ea0c2"
+  },
+  "quizName": "DA Mock Test 1",
+  "subject": "DA",
+  "section": "Statistics",
+  "quizType": "mock_test",
+  "score": 75,
+  "totalQuestions": 15,
+  "correctAnswers": 11,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 73,
+  "timeSpent": 1350,
+  "averageTimePerQuestion": 0,
+  "difficulty": "mixed",
+  "completedAt": {
+    "$date": "2025-09-03T02:45:06.096Z"
+  },
+  "sessionId": null,
+  "isCompleted": true,
+  "createdAt": {
+    "$date": "2025-09-12T19:27:57.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T19:27:57.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c4743d221d4567c79ea0d4"
+  },
+  "userId": {
+    "$oid": "68c4743b221d4567c79ea0c2"
+  },
+  "quizName": "GA Practice",
+  "subject": "GA",
+  "section": "Verbal Ability",
+  "quizType": "practice",
+  "score": 82,
+  "totalQuestions": 10,
+  "correctAnswers": 8,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 80,
+  "timeSpent": 450,
+  "averageTimePerQuestion": 0,
+  "difficulty": "mixed",
+  "completedAt": {
+    "$date": "2025-09-09T01:22:31.865Z"
+  },
+  "sessionId": null,
+  "isCompleted": true,
+  "createdAt": {
+    "$date": "2025-09-12T19:27:57.244Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T19:27:57.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c4743d221d4567c79ea0d6"
+  },
+  "userId": {
+    "$oid": "68c4743c221d4567c79ea0c4"
+  },
+  "quizName": "CS Mock Test 2",
+  "subject": "CS",
+  "section": "Operating Systems",
+  "quizType": "mock_test",
+  "score": 90,
+  "totalQuestions": 20,
+  "correctAnswers": 18,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 90,
+  "timeSpent": 1650,
+  "averageTimePerQuestion": 0,
+  "difficulty": "mixed",
+  "completedAt": {
+    "$date": "2025-08-30T13:00:11.019Z"
+  },
+  "sessionId": null,
+  "isCompleted": true,
+  "createdAt": {
+    "$date": "2025-09-12T19:27:57.245Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T19:27:57.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c4743d221d4567c79ea0d8"
+  },
+  "userId": {
+    "$oid": "68c4743c221d4567c79ea0c4"
+  },
+  "quizName": "DA Practice",
+  "subject": "DA",
+  "section": "Linear Algebra",
+  "quizType": "practice",
+  "score": 85,
+  "totalQuestions": 15,
+  "correctAnswers": 13,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 87,
+  "timeSpent": 1200,
+  "averageTimePerQuestion": 0,
+  "difficulty": "mixed",
+  "completedAt": {
+    "$date": "2025-08-26T18:13:27.630Z"
+  },
+  "sessionId": null,
+  "isCompleted": true,
+  "createdAt": {
+    "$date": "2025-09-12T19:27:57.246Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T19:27:57.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c4743d221d4567c79ea0da"
+  },
+  "userId": {
+    "$oid": "68c4743c221d4567c79ea0c4"
+  },
+  "quizName": "GA Mixed Practice",
+  "subject": "GA",
+  "section": null,
+  "quizType": "mixed_practice",
+  "score": 88,
+  "totalQuestions": 10,
+  "correctAnswers": 9,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 90,
+  "timeSpent": 480,
+  "averageTimePerQuestion": 0,
+  "difficulty": "mixed",
+  "completedAt": {
+    "$date": "2025-08-17T22:39:30.694Z"
+  },
+  "sessionId": null,
+  "isCompleted": true,
+  "createdAt": {
+    "$date": "2025-09-12T19:27:57.271Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T19:27:57.271Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c4743d221d4567c79ea0dc"
+  },
+  "userId": {
+    "$oid": "68c4743c221d4567c79ea0c6"
+  },
+  "quizName": "CS Practice",
+  "subject": "CS",
+  "section": "Networks",
+  "quizType": "practice",
+  "score": 80,
+  "totalQuestions": 20,
+  "correctAnswers": 16,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 80,
+  "timeSpent": 1800,
+  "averageTimePerQuestion": 0,
+  "difficulty": "mixed",
+  "completedAt": {
+    "$date": "2025-08-22T08:20:43.116Z"
+  },
+  "sessionId": null,
+  "isCompleted": true,
+  "createdAt": {
+    "$date": "2025-09-12T19:27:57.276Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T19:27:57.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c4743d221d4567c79ea0de"
+  },
+  "userId": {
+    "$oid": "68c4743c221d4567c79ea0c6"
+  },
+  "quizName": "DA Mock Test 1",
+  "subject": "DA",
+  "section": "Calculus",
+  "quizType": "mock_test",
+  "score": 70,
+  "totalQuestions": 15,
+  "correctAnswers": 10,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 67,
+  "timeSpent": 1500,
+  "averageTimePerQuestion": 0,
+  "difficulty": "mixed",
+  "completedAt": {
+    "$date": "2025-08-27T08:16:00.930Z"
+  },
+  "sessionId": null,
+  "isCompleted": true,
+  "createdAt": {
+    "$date": "2025-09-12T19:27:57.278Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T19:27:57.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c4743d221d4567c79ea0e0"
+  },
+  "userId": {
+    "$oid": "68c4743c221d4567c79ea0c6"
+  },
+  "quizName": "GA Practice",
+  "subject": "GA",
+  "section": "Numerical Ability",
+  "quizType": "practice",
+  "score": 75,
+  "totalQuestions": 10,
+  "correctAnswers": 7,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 70,
+  "timeSpent": 600,
+  "averageTimePerQuestion": 0,
+  "difficulty": "mixed",
+  "completedAt": {
+    "$date": "2025-09-11T08:50:34.162Z"
+  },
+  "sessionId": null,
+  "isCompleted": true,
+  "createdAt": {
+    "$date": "2025-09-12T19:27:57.282Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T19:27:57.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c4743d221d4567c79ea0e2"
+  },
+  "userId": {
+    "$oid": "68c4743c221d4567c79ea0c8"
+  },
+  "quizName": "CS Mock Test 3",
+  "subject": "CS",
+  "section": "Databases",
+  "quizType": "mock_test",
+  "score": 95,
+  "totalQuestions": 20,
+  "correctAnswers": 19,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 95,
+  "timeSpent": 1500,
+  "averageTimePerQuestion": 0,
+  "difficulty": "mixed",
+  "completedAt": {
+    "$date": "2025-08-30T05:08:37.435Z"
+  },
+  "sessionId": null,
+  "isCompleted": true,
+  "createdAt": {
+    "$date": "2025-09-12T19:27:57.284Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T19:27:57.284Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c4743d221d4567c79ea0e4"
+  },
+  "userId": {
+    "$oid": "68c4743c221d4567c79ea0c8"
+  },
+  "quizName": "DA Practice",
+  "subject": "DA",
+  "section": "Optimization",
+  "quizType": "practice",
+  "score": 88,
+  "totalQuestions": 15,
+  "correctAnswers": 13,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 87,
+  "timeSpent": 1200,
+  "averageTimePerQuestion": 0,
+  "difficulty": "mixed",
+  "completedAt": {
+    "$date": "2025-08-27T18:32:43.774Z"
+  },
+  "sessionId": null,
+  "isCompleted": true,
+  "createdAt": {
+    "$date": "2025-09-12T19:27:57.288Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T19:27:57.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c4743d221d4567c79ea0e6"
+  },
+  "userId": {
+    "$oid": "68c4743c221d4567c79ea0c8"
+  },
+  "quizName": "GA Mixed Practice",
+  "subject": "GA",
+  "section": null,
+  "quizType": "mixed_practice",
+  "score": 92,
+  "totalQuestions": 10,
+  "correctAnswers": 9,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 90,
+  "timeSpent": 450,
+  "averageTimePerQuestion": 0,
+  "difficulty": "mixed",
+  "completedAt": {
+    "$date": "2025-08-17T02:19:06.805Z"
+  },
+  "sessionId": null,
+  "isCompleted": true,
+  "createdAt": {
+    "$date": "2025-09-12T19:27:57.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-12T19:27:57.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c65576daa190852905c546"
+  },
+  "userId": {
+    "$oid": "68c578052cc6afb08bb4a81a"
+  },
+  "quizName": "GATE DA Mixed Practice",
+  "subject": "Mixed",
+  "section": "all",
+  "quizType": "mixed_practice",
+  "score": 9.67,
+  "totalQuestions": 15,
+  "correctAnswers": 11,
+  "incorrectAnswers": 4,
+  "unattempted": 0,
+  "percentage": 73.3,
+  "timeSpent": 198,
+  "averageTimePerQuestion": 13,
+  "difficulty": "mixed",
+  "sessionId": "1757828268507.8071",
+  "isCompleted": true,
+  "completedAt": {
+    "$date": "2025-09-14T05:41:10.647Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-14T05:41:10.649Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T05:41:10.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c6d8529311dfa32ccfe574"
+  },
+  "userId": {
+    "$oid": "68c578052cc6afb08bb4a81a"
+  },
+  "quizName": "Linear Algebra - Mock Test 2",
+  "subject": "DA",
+  "section": "Linear Algebra",
+  "quizType": "mock_test",
+  "score": 13.67,
+  "totalQuestions": 10,
+  "correctAnswers": 9,
+  "incorrectAnswers": 1,
+  "unattempted": 0,
+  "percentage": 90,
+  "timeSpent": 97,
+  "averageTimePerQuestion": 10,
+  "difficulty": "mixed",
+  "sessionId": "1757861970076.0303",
+  "isCompleted": true,
+  "completedAt": {
+    "$date": "2025-09-14T14:59:30.151Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-14T14:59:30.159Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T14:59:30.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c6d97a9311dfa32ccfe57f"
+  },
+  "userId": {
+    "$oid": "68c578052cc6afb08bb4a81a"
+  },
+  "quizName": "Engineering Mathematics - Mock Test 1",
+  "subject": "CS",
+  "section": "Engineering Mathematics",
+  "quizType": "mock_test",
+  "score": 10,
+  "totalQuestions": 10,
+  "correctAnswers": 8,
+  "incorrectAnswers": 2,
+  "unattempted": 0,
+  "percentage": 80,
+  "timeSpent": 98,
+  "averageTimePerQuestion": 10,
+  "difficulty": "mixed",
+  "sessionId": "1757862266111.2112",
+  "isCompleted": true,
+  "completedAt": {
+    "$date": "2025-09-14T15:04:26.143Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-14T15:04:26.146Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T15:04:26.146Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c6db4f9311dfa32ccfe5a1"
+  },
+  "userId": {
+    "$oid": "68c578052cc6afb08bb4a81a"
+  },
+  "quizName": "Probability and Statistics - Mock Test 2",
+  "subject": "DA",
+  "section": "Probability and Statistics",
+  "quizType": "mock_test",
+  "score": 16,
+  "totalQuestions": 10,
+  "correctAnswers": 10,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 100,
+  "timeSpent": 90,
+  "averageTimePerQuestion": 9,
+  "difficulty": "mixed",
+  "sessionId": "1757862735167.1858",
+  "isCompleted": true,
+  "completedAt": {
+    "$date": "2025-09-14T15:12:15.207Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-14T15:12:15.208Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T15:12:15.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c6e137ce0e2598a44f21bf"
+  },
+  "userId": {
+    "$oid": "68c5a41c103eedf286781bdd"
+  },
+  "quizName": "Database Management and Warehousing - Mock Test 3",
+  "subject": "DA",
+  "section": "Database Management and Warehousing",
+  "quizType": "mock_test",
+  "score": 13.67,
+  "totalQuestions": 10,
+  "correctAnswers": 9,
+  "incorrectAnswers": 1,
+  "unattempted": 0,
+  "percentage": 90,
+  "timeSpent": 106,
+  "averageTimePerQuestion": 11,
+  "difficulty": "mixed",
+  "sessionId": "1757864247026.8872",
+  "isCompleted": true,
+  "completedAt": {
+    "$date": "2025-09-14T15:37:27.197Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-14T15:37:27.199Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T15:37:27.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c6f7b4b92c330f7aaca1b9"
+  },
+  "userId": {
+    "$oid": "68c5a41c103eedf286781bdd"
+  },
+  "quizName": "Algorithms - Mock Test 2",
+  "subject": "CS",
+  "section": "Algorithms",
+  "quizType": "mock_test",
+  "score": 11.33,
+  "totalQuestions": 10,
+  "correctAnswers": 9,
+  "incorrectAnswers": 1,
+  "unattempted": 0,
+  "percentage": 90,
+  "timeSpent": 92,
+  "averageTimePerQuestion": 9,
+  "difficulty": "mixed",
+  "sessionId": "1757870004605.231",
+  "isCompleted": true,
+  "completedAt": {
+    "$date": "2025-09-14T17:13:24.680Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-14T17:13:24.682Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-14T17:13:24.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c98cb0117e00ebff69335b"
+  },
+  "userId": {
+    "$oid": "68c65635daa190852905c566"
+  },
+  "quizName": "Probability and Statistics - Mock Test 1",
+  "subject": "DA",
+  "section": "Probability and Statistics",
+  "quizType": "mock_test",
+  "score": 15,
+  "totalQuestions": 10,
+  "correctAnswers": 10,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 100,
+  "timeSpent": 62,
+  "averageTimePerQuestion": 6,
+  "difficulty": "mixed",
+  "sessionId": "1758039216847.2822",
+  "isCompleted": true,
+  "completedAt": {
+    "$date": "2025-09-16T16:13:36.888Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-16T16:13:36.889Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T16:13:36.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c98d12117e00ebff693366"
+  },
+  "userId": {
+    "$oid": "68c65635daa190852905c566"
+  },
+  "quizName": "Computer Organization and Architecture - Mock Test 2",
+  "subject": "CS",
+  "section": "Computer Organization and Architecture",
+  "quizType": "mock_test",
+  "score": 10.67,
+  "totalQuestions": 10,
+  "correctAnswers": 8,
+  "incorrectAnswers": 2,
+  "unattempted": 0,
+  "percentage": 80,
+  "timeSpent": 69,
+  "averageTimePerQuestion": 7,
+  "difficulty": "mixed",
+  "sessionId": "1758039314271.424",
+  "isCompleted": true,
+  "completedAt": {
+    "$date": "2025-09-16T16:15:14.310Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-16T16:15:14.311Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T16:15:14.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c992f697529918ccc43771"
+  },
+  "userId": {
+    "$oid": "68c65635daa190852905c566"
+  },
+  "quizName": "Programming, Data Structures and Algorithms - Mock Test 3",
+  "subject": "DA",
+  "section": "Programming, Data Structures and Algorithms",
+  "quizType": "mock_test",
+  "score": 15,
+  "totalQuestions": 10,
+  "correctAnswers": 10,
+  "incorrectAnswers": 0,
+  "unattempted": 0,
+  "percentage": 100,
+  "timeSpent": 19,
+  "averageTimePerQuestion": 2,
+  "difficulty": "mixed",
+  "sessionId": "1758040821760.4666",
+  "isCompleted": true,
+  "completedAt": {
+    "$date": "2025-09-16T16:40:22.637Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-16T16:40:22.639Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T16:40:22.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c993b6f2880ad0ca6368b0"
+  },
+  "userId": {
+    "$oid": "68c578052cc6afb08bb4a81a"
+  },
+  "quizName": "Programming and Data Structures - Mock Test 3",
+  "subject": "CS",
+  "section": "Programming and Data Structures",
+  "quizType": "mock_test",
+  "score": 17.33,
+  "totalQuestions": 10,
+  "correctAnswers": 9,
+  "incorrectAnswers": 1,
+  "unattempted": 0,
+  "percentage": 90,
+  "timeSpent": 75,
+  "averageTimePerQuestion": 8,
+  "difficulty": "mixed",
+  "sessionId": "1758041014341.0986",
+  "isCompleted": true,
+  "completedAt": {
+    "$date": "2025-09-16T16:43:34.363Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-16T16:43:34.365Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T16:43:34.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c9940cf2880ad0ca6368d6"
+  },
+  "userId": {
+    "$oid": "68c5a41c103eedf286781bdd"
+  },
+  "quizName": "Database Management and Warehousing - Mock Test 2",
+  "subject": "DA",
+  "section": "Database Management and Warehousing",
+  "quizType": "mock_test",
+  "score": 11,
+  "totalQuestions": 10,
+  "correctAnswers": 8,
+  "incorrectAnswers": 2,
+  "unattempted": 0,
+  "percentage": 80,
+  "timeSpent": 23,
+  "averageTimePerQuestion": 2,
+  "difficulty": "mixed",
+  "sessionId": "1758041100403.401",
+  "isCompleted": true,
+  "completedAt": {
+    "$date": "2025-09-16T16:45:00.425Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-16T16:45:00.425Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T16:45:00.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca49a1f3ed3eceffa1b7c0"
+  },
+  "userId": {
+    "$oid": "68c65608daa190852905c558"
+  },
+  "quizName": "Digital Logic - Mock Test 2",
+  "subject": "CS",
+  "section": "Digital Logic",
+  "quizType": "mock_test",
+  "score": 8.33,
+  "totalQuestions": 10,
+  "correctAnswers": 7,
+  "incorrectAnswers": 3,
+  "unattempted": 0,
+  "percentage": 70,
+  "timeSpent": 94,
+  "averageTimePerQuestion": 9,
+  "difficulty": "mixed",
+  "sessionId": "1758087585926.3457",
+  "isCompleted": true,
+  "completedAt": {
+    "$date": "2025-09-17T05:39:45.967Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-17T05:39:45.968Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T05:39:45.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ce210fb7314a5d1877f50b"
+  },
+  "userId": {
+    "$oid": "68c578052cc6afb08bb4a81a"
+  },
+  "quizName": "Linear Algebra - Mock Test 2",
+  "subject": "DA",
+  "section": "Linear Algebra",
+  "quizType": "mock_test",
+  "score": 13.67,
+  "totalQuestions": 10,
+  "correctAnswers": 9,
+  "incorrectAnswers": 1,
+  "unattempted": 0,
+  "percentage": 90,
+  "timeSpent": 126,
+  "averageTimePerQuestion": 13,
+  "difficulty": "mixed",
+  "sessionId": "1758339343404.4573",
+  "isCompleted": true,
+  "completedAt": {
+    "$date": "2025-09-20T03:35:43.429Z"
+  },
+  "createdAt": {
+    "$date": "2025-09-20T03:35:43.431Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-20T03:35:43.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68fd0d52fe1d7d5616bf8929"
+  },
+  "userId": {
+    "$oid": "68c578052cc6afb08bb4a81a"
+  },
+  "quizName": "Engineering Mathematics - Mock Test 2",
+  "subject": "CS",
+  "section": "Engineering Mathematics",
+  "quizType": "mock_test",
+  "score": 13,
+  "totalQuestions": 10,
+  "correctAnswers": 8,
+  "incorrectAnswers": 2,
+  "unattempted": 0,
+  "percentage": 80,
+  "timeSpent": 103,
+  "averageTimePerQuestion": 10,
+  "difficulty": "mixed",
+  "sessionId": "1761414482299.456",
+  "isCompleted": true,
+  "completedAt": {
+    "$date": "2025-10-25T17:48:02.334Z"
+  },
+  "createdAt": {
+    "$date": "2025-10-25T17:48:02.337Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-25T17:48:02.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69215cec2468f289bdcd802f"
+  },
+  "userId": {
+    "$oid": "68c578052cc6afb08bb4a81a"
+  },
+  "quizName": "Programming, Data Structures and Algorithms - Mock Test 1",
+  "subject": "DA",
+  "section": "Programming, Data Structures and Algorithms",
+  "quizType": "mock_test",
+  "score": 0,
+  "totalQuestions": 10,
+  "correctAnswers": 1,
+  "incorrectAnswers": 7,
+  "unattempted": 2,
+  "percentage": 10,
+  "timeSpent": 57,
+  "averageTimePerQuestion": 6,
+  "difficulty": "mixed",
+  "sessionId": "1763794156599.2224",
+  "isCompleted": true,
+  "completedAt": {
+    "$date": "2025-11-22T06:49:16.622Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-22T06:49:16.623Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-22T06:49:16.623Z"
+  },
+  "__v": 0
+}]
