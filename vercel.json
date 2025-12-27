@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "outputDirectory": "build",
   "builds": [
     {
       "src": "client/package.json",
       "use": "@vercel/static-build",
       "config": {
-        "distDir": "../build"
+        "distDir": "build",
+        "buildCommand": "cd client && export BUILD_PATH=../build && npm run build"
       }
     },
     {
